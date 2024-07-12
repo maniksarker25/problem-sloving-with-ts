@@ -2,6 +2,7 @@
 
 //Create An Array Of Objects Representing Cars With Properties Like Make, Model, And Year. Write A Function To Sort The Array Of Cars By The Year Of Manufacture In Ascending Order. Print The Sorted Array.
 
+// solution-------------------
 type TCar = {
   make: string;
   model: string;
