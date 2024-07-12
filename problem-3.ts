@@ -1,6 +1,7 @@
 //3.Task: Function Composition
 
 //Write Three Functions: One To Square A Number, One To Double A Number, And One To Add 5 To A Number. Compose These Functions To Create A New Function That Squares A Number, Doubles The Result, And Then Adds 5.
+
 // solution ------------------------------------
 // Function to square a number
 const square = (x: number): number => x * x;
